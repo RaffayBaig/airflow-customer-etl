@@ -186,3 +186,18 @@ SELECT COUNT(*) FROM customers;
 * Docker
 * PostgreSQL
 * Idempotent data loading
+
+
+
+
+
+
+<img width="1311" height="652" alt="image" src="https://github.com/user-attachments/assets/42e813b4-38b9-46f8-b5e0-d3aeadcc917d" />
+
+
+
+
+
+
+
+
