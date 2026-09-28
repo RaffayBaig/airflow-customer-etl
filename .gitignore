@@ -1,0 +1,23 @@
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Airflow
+logs/
+
+# Generated ETL data
+data/customers_raw.csv
+data/customers_clean.csv
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
